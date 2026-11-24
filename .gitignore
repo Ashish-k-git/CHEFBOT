@@ -84,13 +84,13 @@ Desktop.ini
 *.db
 
 # Strapi
+# Strapi
 /backend/.tmp
 /backend/.cache
 /backend/build
 /backend/dist
 /backend/node_modules
 /backend/.strapi
-/backend/public/uploads
 
 # Strapi environment files
 /backend/.env
